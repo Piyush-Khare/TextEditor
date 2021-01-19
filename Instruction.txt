@@ -1,3 +1,0 @@
-This Project is based on Core Java that is the replica of Windows Operating system Notepad.
-You can run the application by clicking on the file named "TextEditor.jar"
-You can find the source code by clicking on the file named "TextEditor.java"
